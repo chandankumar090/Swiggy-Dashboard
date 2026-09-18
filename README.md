@@ -48,3 +48,7 @@ To allow users to easily drill down into specific data points, the dashboard inc
 1. **Weekend Surge:** Sales significantly peak over the weekend (Friday–Saturday), suggesting a prime window for targeted marketing campaigns and push notifications.
 2. **Dominant Market:** Bengaluru is the single largest revenue hub for the platform within this dataset, making it a critical baseline for testing new features or loyalty programs.
 3. **Dietary Preference:** Non-veg dishes heavily drive gross merchandise value (GMV), capturing nearly two-thirds of the total market share.
+
+
+### Screenshot
+![Dashboard Preview](https://github.com/chandankumar090/Swiggy-Dashboard/blob/main/Snapshot_swiggy.png)
